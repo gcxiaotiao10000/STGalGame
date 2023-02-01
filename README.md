@@ -1,5 +1,5 @@
 # STGalGame
-An experimental galgame by some Chinese high school student.
+An experimental galgame by some Chinese high school students.
 
 # ALL OF THE PICTURES WERE CREATED BY ARTIFICIAL INTELLIGENCE
 # THIS IS AN NON-PROFIT PROGRAM
