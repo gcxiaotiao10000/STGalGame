@@ -1,0 +1,7 @@
+|名称类型/人物|龚|银鱼|紫余|马铃薯|柏|全|
+|---|---|---|---|---|---|---|
+|中|张瑞秋|杜憧|秦雪菲|许淑芬|邵筱娅|梁若澜
+|日|须藤天 Sutousora|山本岚 Yamamotoarash|飞鸟希雅 Askarnoa|中岛琦美 Nakasimakimi|高桥春风 Takashiharruca|高木晓 Takagisatoru|
+|韩|||||||
+|英|Michelle•Actry米歇尔•亚托莉|Sliver•Fisher沙利文·费歇尔|Noa•Cream诺亚•克里穆|Fokker•Ava福克•艾瓦|Clara•Sean克拉拉•肖恩|Claire •Hiens克莱尔希恩斯|
+|俄|安娜·奥西波维奇·巴兰尼科夫|赛里布里尼奇·弗拉基米尔·捷列什科娃|||||
